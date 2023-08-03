@@ -1,16 +1,18 @@
-### Hi there 👋
+# Привет меня зовут Иван!
 
-<!--
-**Zer0is-D/Zer0is-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Обо мне:
+Начинающий Backend программист с 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Разработка:
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
+
+
+<details open="">
+  <summary><b>Check my GitHub stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0is-D&layout=compact&langs_count=8&theme=merko" width=40%/></a>
+  
+</details>
