@@ -2,18 +2,39 @@
 
 
 ### Обо мне:
-Начинающий Backend программист с нездоровым стремлением к учебе. Помимо программирования активно изучаю биологию, этологию, философию и исскуство.
-
-## Мой stack
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="ASP NET" width="26px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/158074977/original/bb18ce691b2723d2fc557a4336e8ff9eb3858b6c/develop-your-site-in-asp.png" />
-<img align="left" alt="WPF" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.ukad-group.com%2Fmedia%2F2536%2Fwpf-logo-175.png&f=1&nofb=1" />
-
-<br/>
+Как начинающий backend-программист с сильным желанием учиться. Помимо программирования, активно изучаю такие предметы, как биология, этология, философия и искусство.
 
 ---
 
-<a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0is-D&layout=compact&langs_count=8&theme=merko" width=40%/></a>
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://syncfusioninc.gallerycdn.vsassets.io/extensions/syncfusioninc/wpf-imageeditor/22.1.34/1688102719170/Microsoft.VisualStudio.Services.Icons.Default" title="WPF" alt="WPF" width="40" height="40"/>&nbsp;
+
   
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Рhotoshop" alt="Рhotoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" title="sublime text 3" alt="sublime text 3" width="40" height="40"/>&nbsp;
+
+ 
+</div>
+
+---
+### ⚙️ GitHub статистика:
+<a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0is-D&layout=compact&langs_count=8&theme=merko" width=40%/></a>
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zer0is-D)
