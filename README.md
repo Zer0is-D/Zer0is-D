@@ -17,6 +17,7 @@ Backend-программист с сильным желанием учиться
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" title=".Net Core" alt=".Net Core" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/xaml.png" title="XAML" alt="XAML" width="40" height="40"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   </div>
 
 ---
