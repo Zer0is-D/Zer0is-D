@@ -35,7 +35,7 @@ Backend-программист с сильным желанием учиться
 
 ---
 ### ⚙️ GitHub статистика:
-<a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0is-D&layout=compact&langs_count=8&theme=merko" width=40%/></a>
+<a href="https://github.com/Zer0is-D/Zer0is-D"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0is-D&layout=compact&langs_count=8&theme=merko" width=40%/></a>
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zer0is-D)
